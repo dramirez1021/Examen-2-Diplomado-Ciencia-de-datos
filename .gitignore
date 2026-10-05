@@ -1,0 +1,16 @@
+# Datos del proyecto
+data/
+
+# Archivo comprimido con los datos
+archive.zip
+
+# Archivos temporales de Jupyter
+.ipynb_checkpoints/
+
+# Entornos virtuales de Python
+venv/
+.venv/
+
+# Cache de Python
+__pycache__/
+*.pyc
